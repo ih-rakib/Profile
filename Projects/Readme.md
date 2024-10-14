@@ -7,10 +7,10 @@
 | [E-Commerce](https://github.com/ih-rakib/E-Commerce) | User authentication, Product management, Responsive design | React, Node.js, Express, MongoDB |
 | [News Today](https://github.com/ih-rakib/News-Today) | Filtering, Search functionality, Routing | Next.js, Routing, Search Filter | [Live Link](https://news-today-six.vercel.app/) |
 | [MERN CRUD Application](https://github.com/ih-rakib/mern-CRUD-application) | CRUD operations, MERN stack | React, Node.js, Express, MongoDB |
-| [Youtube Clone](https://github.com/ih-rakib/youtube-clone) | UI clone of YouTube, Basic functionalities | React |
+| [Youtube Clone](https://github.com/ih-rakib/youtube-clone) | UI clone of YouTube, Image Upload, Authentication | React, NodeJs, MongoDB, Express, JWT, Multer |
 | [Shoemars](https://github.com/ih-rakib/Shoemars) | E-commerce website, Responsive design, Product showcase | HTML, CSS, JavaScript | [Live Link](https://ih-rakib.github.io/Shoemars/) |
 | [React-Quiz](https://github.com/ih-rakib/React-Quiz) | Quiz functionality, Responsive design, Timer | React |
-| [Amazon UI Clone](https://github.com/ih-rakib/Amazon-Clone) | UI clone of Amazon, Product listing | HTML, CSS, JavaScript | [Live Link](https://ih-rakib.github.io/Amazon-Clone/) |
+| [Amazon UI Clone](https://github.com/ih-rakib/Amazon-Clone) | UI clone of Amazon, Home Page | HTML, CSS, JavaScript | [Live Link](https://ih-rakib.github.io/Amazon-Clone/) |
 | [Todo App](https://github.com/ih-rakib/Todo-App) | Task management, Add/Delete tasks | HTML, CSS, JavaScript | [Live Link](https://todo-app-delta-neon.vercel.app/) |
 | [Bank Calculation](https://github.com/ih-rakib/Bank-Calculation) | Deposit and withdrawal functionalities | HTML, CSS, JavaScript | [Live Link](https://ih-rakib.github.io/Bank-Calculation/) |
 | [Penguin Fashion](https://github.com/ih-rakib/Penguin-Fashion) | Fashion showcase, Responsive design | HTML, CSS, JavaScript | [Live Link](https://ih-rakib.github.io/Penguin-Fashion/) |
