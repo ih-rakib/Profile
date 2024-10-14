@@ -1,7 +1,7 @@
 # Projects
 
-| Project Name | Features | Technology |
-|--------------|----------|------------|
+| Project Name | Features | Technology | Preview |
+|--------------|----------|------------|---------|
 | [Data Structure and Algorithm](https://github.com/ih-rakib/Data-Structure-and-Algorithm) | Collection of data structures and algorithm problems in C and C++. | C, C++ |
 | [TechMart](https://github.com/ih-rakib/TechMart) | MERN stack, Image upload, Admin dashboard, User dashboard, Authentication, Authorization, Routing | React, Node.js, Express, MongoDB, Tailwind CSS, JWT, Multer |
 | [E-Commerce](https://github.com/ih-rakib/E-Commerce) | User authentication, Product management, Responsive design | React, Node.js, Express, MongoDB |
