@@ -3,9 +3,9 @@
 | Project Name | Features | Technology | Preview |
 |--------------|----------|------------|---------|
 | [Data Structure and Algorithm](https://github.com/ih-rakib/Data-Structure-and-Algorithm) | Collection of data structures and algorithm problems in C and C++. | C, C++ | - |
+| [E-Commerce](https://github.com/ih-rakib/E-Commerce) | User authentication, Product management, Responsive design | React, Node.js, Express, MongoDB | [Preview](https://e-commerce-client-rosy.vercel.app/) |
 | [TechMart](https://github.com/ih-rakib/TechMart) | MERN stack, Image upload, Admin dashboard, User dashboard, Authentication, Authorization, Routing | React, Node.js, Express, MongoDB, Tailwind CSS, JWT, Multer | - |
 | [Gemini-3.0](https://github.com/ih-rakib/Gemini-3.0) | Responsive, React, Google Gemini Api, Custom CSS | React, Gemini Api, CSS | [Preview](https://gemini-3-0-three.vercel.app/) |
-| [E-Commerce](https://github.com/ih-rakib/E-Commerce) | User authentication, Product management, Responsive design | React, Node.js, Express, MongoDB | - |
 | [News Today](https://github.com/ih-rakib/News-Today) | Filtering, Search functionality, Routing | Next.js | [Preview](https://news-today-six.vercel.app/) |
 | [MERN CRUD Application](https://github.com/ih-rakib/mern-CRUD-application) | CRUD operations, MERN stack | React, Node.js, Express, MongoDB | - |
 | [Youtube Clone](https://github.com/ih-rakib/youtube-clone) | UI clone of YouTube, Image Upload, Authentication | React, Node.js, MongoDB, Express, JWT, Multer | - |
