@@ -1,7 +1,7 @@
 # Projects
-### some random projects on different stacks i have done so far
+### some random projects on different stacks i have done so far!
 
-# PROGRAMMING
+## PROGRAMMING
 
 | Project Name | Features | Technology | Preview |
 |--------------|----------|------------|---------|
@@ -10,7 +10,8 @@
 
 ------------------------------
 
-# HTML | CSS | JAVASCRIPT | FRONTEND
+
+## HTML | CSS | JAVASCRIPT | FRONTEND
 
 | Project Name | Features | Technology | Preview |
 |--------------|----------|------------|---------|
@@ -24,7 +25,8 @@
 
 ---------------------
 
-# REACT | NEXT | MERN | BACKEND
+
+## REACT | NEXT | MERN | BACKEND
 
 | Project Name | Features | Technology | Preview |
 |--------------|----------|------------|---------|
@@ -38,7 +40,8 @@
 
 -----------------
 
-# PYTHON
+
+## PYTHON
 
 | Project Name | Features | Technology | 
 |--------------|----------|------------|
